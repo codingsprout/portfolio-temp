@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu", sans-serif;
+}
+
+/* body {
+  background: url(insert own background image);
+  background-repeat: repeat;
+} */
+
+a {
+  text-decoration: none;
+  color: #e30b5d;
+}
+
+@import url("./globalstyle.css");
+
+@import url("./color.css");
+
+@import url("./font.css");
